@@ -1,0 +1,16 @@
+C:\Users\aimen\source\repos\arduino net\Vimg\bin\Debug\netcoreapp3.1\Vimg.exe
+C:\Users\aimen\source\repos\arduino net\Vimg\bin\Debug\netcoreapp3.1\Vimg.deps.json
+C:\Users\aimen\source\repos\arduino net\Vimg\bin\Debug\netcoreapp3.1\Vimg.runtimeconfig.json
+C:\Users\aimen\source\repos\arduino net\Vimg\bin\Debug\netcoreapp3.1\Vimg.runtimeconfig.dev.json
+C:\Users\aimen\source\repos\arduino net\Vimg\bin\Debug\netcoreapp3.1\Vimg.dll
+C:\Users\aimen\source\repos\arduino net\Vimg\bin\Debug\netcoreapp3.1\Vimg.pdb
+C:\Users\aimen\source\repos\arduino net\Vimg\obj\Debug\netcoreapp3.1\Vimg.csproj.AssemblyReference.cache
+C:\Users\aimen\source\repos\arduino net\Vimg\obj\Debug\netcoreapp3.1\Vimg.Form1.resources
+C:\Users\aimen\source\repos\arduino net\Vimg\obj\Debug\netcoreapp3.1\Vimg.csproj.GenerateResource.cache
+C:\Users\aimen\source\repos\arduino net\Vimg\obj\Debug\netcoreapp3.1\Vimg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aimen\source\repos\arduino net\Vimg\obj\Debug\netcoreapp3.1\Vimg.AssemblyInfoInputs.cache
+C:\Users\aimen\source\repos\arduino net\Vimg\obj\Debug\netcoreapp3.1\Vimg.AssemblyInfo.cs
+C:\Users\aimen\source\repos\arduino net\Vimg\obj\Debug\netcoreapp3.1\Vimg.csproj.CoreCompileInputs.cache
+C:\Users\aimen\source\repos\arduino net\Vimg\obj\Debug\netcoreapp3.1\Vimg.dll
+C:\Users\aimen\source\repos\arduino net\Vimg\obj\Debug\netcoreapp3.1\Vimg.pdb
+C:\Users\aimen\source\repos\arduino net\Vimg\obj\Debug\netcoreapp3.1\Vimg.genruntimeconfig.cache
